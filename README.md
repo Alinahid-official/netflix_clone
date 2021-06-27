@@ -1,5 +1,5 @@
 
-Hosted on https://kaurav-netflixclone.netlify.app/
+Hosted on https://60d5f2257846875760ac9f05--zen-dubinsky-84dfe5.netlify.app/
 
 # Getting Started with Create React App
 
